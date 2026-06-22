@@ -57,7 +57,7 @@ The CNN architecture consists of:
 
 ### Architecture Screenshot
 
-![Model Architecture](img1.png)
+![Model Architecture](https://github.com/arshan-rahman/Brain-Tumor-Detection-CNN/blob/fb20758d98ca967c13caf604a9005dfdda442a80/img1)
 
 ---
 
