@@ -57,7 +57,7 @@ The CNN architecture consists of:
 
 ### Architecture Screenshot
 
-![Model Architecture](screenshots/model_architecture.png)
+![Model Architecture](Screenshot 2026-06-22 134935.png)
 
 ---
 
@@ -95,7 +95,7 @@ The CNN architecture consists of:
 
 The confusion matrix obtained on the test dataset is shown below.
 
-![Confusion Matrix](screenshots/confusion_matrix.png)
+![Confusion Matrix](Screenshot 2026-06-22 134951.png)
 
 ### Results
 
@@ -116,7 +116,7 @@ When an MRI image is classified as containing a tumour, the system identifies th
 
 ### Prediction Example
 
-![Tumour Detection](screenshots/tumour_detection.png)
+![Tumour Detection](Screenshot 2026-06-22 135023.png)
 
 Example Prediction:
 
