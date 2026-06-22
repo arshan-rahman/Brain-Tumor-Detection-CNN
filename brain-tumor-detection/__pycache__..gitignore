@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+
+archive.zip
+brain_tumor_dataset/
+*.h5
+*.keras
+
+.ipynb_checkpoints/
