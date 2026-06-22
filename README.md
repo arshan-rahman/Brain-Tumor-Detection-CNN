@@ -1,5 +1,5 @@
 # Brain Tumor Detection using CNN
-
+ 
 A deep learning project that detects brain tumors from MRI images using a Convolutional Neural Network (CNN).
 
 ## Features
