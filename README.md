@@ -116,7 +116,7 @@ When an MRI image is classified as containing a tumour, the system identifies th
 
 ### Prediction Example
 
-![Tumour Detection]([Screenshot 2026-06-22 135023.png](https://github.com/arshan-rahman/Brain-Tumor-Detection-CNN/blob/6efa3aed2d68856255bc521f233ce675a417fd8f/Screenshot%202026-06-22%20135023.png))
+![Tumour Detection](https://github.com/arshan-rahman/Brain-Tumor-Detection-CNN/blob/6efa3aed2d68856255bc521f233ce675a417fd8f/Screenshot%202026-06-22%20135023.png)
 
 Example Prediction:
 
