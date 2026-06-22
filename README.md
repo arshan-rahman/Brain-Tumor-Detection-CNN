@@ -57,7 +57,7 @@ The CNN architecture consists of:
 
 ### Architecture Screenshot
 
-![Model Architecture](Screenshot_2026-06-22_134935.png)
+![Model Architecture](img1.png)
 
 ---
 
